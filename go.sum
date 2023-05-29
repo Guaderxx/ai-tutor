@@ -1,0 +1,6 @@
+github.com/bobertlo/go-mpg123 v0.0.0-20211210004329-c83f21a0fd39 h1:VCejVrz3ZyFZbDZTAawyzqVTPvsqaYkDNriuvqI+Ul4=
+github.com/bobertlo/go-mpg123 v0.0.0-20211210004329-c83f21a0fd39/go.mod h1:mXbpHtCUpJj6n++mw/GWIxTeajLCSA7+uKHc9yP+WBI=
+github.com/gordonklaus/portaudio v0.0.0-20221027163845-7c3b689db3cc h1:yYLpN7bJxKYILKnk20oczGQOQd2h3/7z7/cxdD9Se/I=
+github.com/gordonklaus/portaudio v0.0.0-20221027163845-7c3b689db3cc/go.mod h1:WY8R6YKlI2ZI3UyzFk7P6yGSuS+hFwNtEzrexRyD7Es=
+github.com/sashabaranov/go-openai v1.9.4 h1:KanoCEoowAI45jVXlenMCckutSRr39qOmSi9MyPBfZM=
+github.com/sashabaranov/go-openai v1.9.4/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
