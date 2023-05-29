@@ -6,6 +6,7 @@
 
 ## Example
 
+[demo](https://raw.githubusercontent.com/Guaderxx/ai-tutor/tmp/demo.mp4)
 
 
 ## Dependency
