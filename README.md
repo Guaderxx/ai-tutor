@@ -11,6 +11,7 @@
 
 ## Dependency
 
+- ChatGPT
 - [bark](https://github.com/suno-ai/bark)
 - [go-openai](https://github.com/sashabaranov/go-openai)
 - [vlc](https://github.com/videolan/vlc)
